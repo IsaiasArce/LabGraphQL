@@ -31,5 +31,8 @@ public class VehicleService {
         vehicle.setLaunchDate(LocalDate.parse(launchDate));
         return this.vehicleRepo.save(vehicle);
     }
+    public void updateVehicle(Vehicle vehicleToUpdate) {
+        this.vehicleRepo.save(vehicleToUpdate);
+    }
 
 }

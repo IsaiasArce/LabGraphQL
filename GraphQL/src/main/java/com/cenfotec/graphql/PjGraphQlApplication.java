@@ -1,4 +1,4 @@
-package com.cenfotec.graphql.pjgraphql;
+package com.cenfotec.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

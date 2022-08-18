@@ -1,4 +1,4 @@
-package com.cenfotec.graphql.pjgraphql;
+package com.cenfotec.graphql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
